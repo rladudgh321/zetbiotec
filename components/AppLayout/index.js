@@ -20,7 +20,7 @@ const items = [
     getItem('인사말', '인사말', null, null, 'group'),
     getItem('경영이념', '경영이념', null, null, 'group'),
     getItem('회사이념', '회사이념', null, null, 'group'),
-    getItem('찾아오시는 길', '찾아오시는 길', null, null, 'group'),
+    getItem('찾아오시는길', '찾아오시는길', null, null, 'group'),
     getItem('인증내역', '인증내역', null, null, 'group'),
   ]),
   getItem('제품정보', '제품정보', null, [
