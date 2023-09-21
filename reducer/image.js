@@ -6,6 +6,8 @@ const initialState = {
         src:'http://zetbio.com/theme/zb/img/main/item03.png'
     }, {
         src:'http://zetbio.com/theme/zb/img/main/item02.png'
+    }, {
+        src:'http://zetbio.com/theme/zb/img/main/item01.png'
     }],
 }
 
